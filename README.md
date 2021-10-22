@@ -16,8 +16,8 @@ I started studying MINIMAX, but after some time I decided to build a fake artifi
 3. Added a version for tablet and mobile.
 4. Create a ability to play with a second player.
 5. Create a 'Winner Checker'.
-5. Added the AI[^1].
-6. Create a 'Switch On/Off AI[^1]' function.
+5. Added the AI.
+6. Create a 'Switch On/Off AI' function.
 
 ## All Techonologies Used
 - ` React Hooks ` 
@@ -28,7 +28,7 @@ I started studying MINIMAX, but after some time I decided to build a fake artifi
 
 ## Features
 - Responsive Web Designe.
-- Ability to play with AI[^1]/a second player.
+- Ability to play with AI/a second player.
 - Ability to change the theme.
 
 ## Acknowledgments
